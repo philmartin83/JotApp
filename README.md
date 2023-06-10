@@ -1,10 +1,10 @@
 # JotApp
 
-## Privacy Policy for Jot App
+## Privacy Policy for Jot
 
 Effective Date: 10/05/2023
 
-This Privacy Policy governs the manner in which Jot App ("we," "us," or "our") collects, uses, maintains, and discloses information collected from users ("User," "you," or "your") of the Jot mobile application ("App"). This Privacy Policy applies to the App and all products and services offered by Jot App.
+This Privacy Policy governs the manner in which Jot App ("we," "us," or "our") collects, uses, maintains, and discloses information collected from users ("User," "you," or "your") of the Jot mobile application ("App"). This Privacy Policy applies to the App and all products and services offered by Jot.
 
 1. Information We Collect
 
