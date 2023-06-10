@@ -1,6 +1,6 @@
 # JotApp
 
-##Privacy Policy for Jot App
+## Privacy Policy for Jot App
 
 Effective Date: 10/05/2023
 
